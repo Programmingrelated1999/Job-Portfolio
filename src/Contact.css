@@ -1,0 +1,83 @@
+input,
+textarea,
+h6 {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+  color: black;
+}
+
+textarea,
+input {
+  border: 3px solid #000;
+  border-radius: 5px;
+  line-height: normal;
+  color: #282828;
+  display: block;
+  width: 30rem;
+  box-sizing: border-box;
+  user-select: auto;
+  font-size: 16px;
+  padding: 0 6px;
+  padding-left: 12px;
+}
+
+textarea:focus {
+  border: 3px solid #5551ff;
+}
+
+input:focus {
+  border: 3px solid #5551ff;
+}
+
+input {
+  height: 2rem;
+}
+
+textarea {
+  height: 12rem;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  margin: 3.5rem 0;
+}
+
+button {
+  display: inline-block;
+  outline: 0;
+  cursor: pointer;
+  border: 2px solid #000;
+  border-radius: 3px;
+  color: #000;
+  background: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  padding: 0.25rem;
+  text-align: center;
+  transition-duration: 0.15s;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+button:hover {
+  background: rgb(251, 193, 245);
+}
+
+.form {
+  background-image: repeating-linear-gradient(
+    -45deg,
+    currentColor,
+    currentColor 0.25px,
+    transparent 0,
+    transparent 50%
+  );
+  background-size: 12px 12px;
+
+  margin-top: 0;
+}
+
+#form-title {
+  font-size: 1.6rem;
+}
