@@ -2,6 +2,7 @@ import "./App.css";
 import Navbar from "./Navbar";
 import SearchBar from "./SearchBar";
 import Resume from "./Resume";
+import About from "./About";
 import { React, useState } from "react";
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <Navbar content={"Resume"} />
         <Navbar content={"Contact"} />
       </ul>
+      <About />
       <SearchBar currentStatus={filter} changeFilter={changeFilter} />
       <Resume />
       {console.log("Current filter", filter)}
