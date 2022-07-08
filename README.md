@@ -1,4 +1,4 @@
-# Personal Job Portfolion Website
+# Personal Portfolio Website
 
 ## Short Summary
 A personal website that shows my software projects and skills. It is a Dynamic webpage built with MERN framework, and includes information of
