@@ -1,6 +1,14 @@
 # Personal Job Portfolion Website
 
 ## Short Summary
+A personal website that shows my software engineering projects and skills. It is a Dynamic webpage built with MERN framework, and includes information of
+
+- About me
+- Previous Projects
+- Resume
+- Contact
+
+This webpage mainly serves to potential employers and software developers who want to work on the project with me. 
 
 ## Tools Used
 - HTML
