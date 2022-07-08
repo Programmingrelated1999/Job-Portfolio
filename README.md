@@ -8,7 +8,7 @@ A personal website that shows my software projects and skills. It is a Dynamic w
 - Resume
 - Contact
 
-This webpage mainly serves to potential employers and software developers who want to work on the project with me. 
+This webpage mainly serves to potential employers and software developers who want to work with me in the future. 
 
 ## Tools Used
 - HTML
