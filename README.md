@@ -3,6 +3,9 @@
 ## Short Summary
 
 ## Tools Used
+- HTML
+- CSS
+- React.js
 
 ## Challenges
 
